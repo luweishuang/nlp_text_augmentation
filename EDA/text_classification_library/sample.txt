@@ -1,0 +1,15 @@
+weather	今天东莞天气如何
+map	从观音桥到重庆市图书馆怎么走
+cookbook	鸭蛋怎么腌？
+health	怎么治疗牛皮癣
+chat	唠什么
+cookbook	阳澄湖大闸蟹的做法。
+map	昆山大润发在哪里
+cookbook	红烧肉怎么做？嗯？
+train	南京到厦门的火车票
+calc	6的平方
+translation	翻译慷慨激昂
+music	放歌，天亮了。
+tvchannel	女性时尚
+train	查一下南昌到南京的火车
+poetry	背首绝句的。

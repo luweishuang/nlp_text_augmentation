@@ -1,0 +1,75 @@
+weather	今天东莞天气韶关如何
+weather	今天东莞天气如何
+weather	今天东莞天候如何
+weather	天气东莞今天如何
+weather	今天 东莞 天气 如何
+map	从到观音桥重庆市图书馆怎么走
+map	从观音桥到重庆市阅览室怎么走
+map	从观音桥到重庆市图书馆怎么走
+map	花桥从观音桥到重庆市图书馆怎么走
+map	从 观音桥 到 重庆市 图书馆 怎么走
+cookbook	鸭蛋怎么水煮？
+cookbook	鸭蛋怎么腌？
+cookbook	鸭蛋怎么腌？
+cookbook	煎鸭蛋怎么腌？
+cookbook	鸭蛋 怎么 腌 ？
+health	治疗牛皮癣
+health	怎么治疗法牛皮癣
+health	怎么牛皮癣治疗
+health	怎么治疗牛皮癣
+health	怎么 治疗 牛皮癣
+chat	唠什么
+chat	唠什么
+chat	什么唠
+chat	唠什么
+chat	唠 什么
+cookbook	阳澄湖荷包的做法。
+cookbook	阳澄湖大闸蟹的做法
+cookbook	阳澄湖大闸蟹崇明的做法。
+cookbook	阳澄湖大闸蟹做法的。
+cookbook	阳澄湖 大闸蟹 的 做法 。
+map	昆山大润发哪里
+map	昆山哪里在大润发
+map	在大润发昆山哪里
+map	昆山昆山大润发在哪里
+map	昆山 大润发 在 哪里
+cookbook	红烧肉怎么做？嗯
+cookbook	红烧肉怎么做想到？嗯？
+cookbook	红烧肉怎么做？嗯？
+cookbook	红烧肉怎么做？干什么嗯？
+cookbook	红烧肉 怎么做 ？ 嗯 ？
+train	南京到厦门芜湖的火车票
+train	南京到厦门泉州的火车票
+train	到南京厦门的火车票
+train	南京到厦门的据悉
+train	南京 到 厦门 的 火车票
+calc	平方的6
+calc	平方的6
+calc	6的
+calc	6的平方
+calc	6 的 平方
+translation	译者慷慨激昂
+translation	慷慨激昂翻译
+translation	翻译慷慨激昂
+translation	翻译慷慨激昂
+translation	翻译 慷慨激昂
+music	放歌，天亮天亮了。
+music	放歌，。了天亮
+music	放歌，天亮了。
+music	放歌，夜里了。
+music	放歌 ， 天亮 了 。
+tvchannel	女性未婚时尚
+tvchannel	时尚界女性时尚
+tvchannel	时尚女性
+tvchannel	女性时装
+tvchannel	女性 时尚
+train	查一下南昌南京到的火车
+train	查一下南昌到南京的火车车厢
+train	火车一下南昌到南京的查
+train	查一下南昌到南京的火车
+train	查 一下 南昌 到 南京 的 火车
+poetry	的绝句背首。
+poetry	背首绝句的。
+poetry	背首绝句名篇的。
+poetry	背首赋绝句的。
+poetry	背首 绝句 的 。
